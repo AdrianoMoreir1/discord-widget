@@ -18,7 +18,6 @@
 
 ## Usage
 Paste the snippet above into your site, and change the `serverId` parameter.
-For more details, go [here](http://discord.deliriousdrunkards.com/).
 
 ## Screenshot
 ![](http://i.imgur.com/6zRoK2V.png)
